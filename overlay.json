@@ -112,6 +112,12 @@
       "sources": ["https://i.imgur.com/7CisoMi.png", ""],
       "x": 2433,
       "y": 209
+    },
+    {
+      "name": "IUT",
+      "sources": ["https://i.imgur.com/NPvD90J.png"],
+      "x": 1090,
+      "y": 90
     }
   ],
   "whitelist": [],
